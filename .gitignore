@@ -5,7 +5,9 @@
 
 # Folders
 _obj
-_test
+images_test
+pages_base
+
 
 # Architecture specific extensions/prefixes
 *.[568vq]
