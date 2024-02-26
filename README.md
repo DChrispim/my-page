@@ -2,11 +2,13 @@
 
 If you want to check the deployed version just click in the link on the right menu under deployments or just click [here](https://dchrispim.github.io/my-page/).
 
+This page was constructed by me using as base the template provided by [**Stellar by HTML5 UP | @ajlkn**](https://html5up.net/). Most of my implementations ware in HTML and JavaScript.
+
 ## Contacte me on
 <div>
 <a href = "mailto:brenoadsdc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brenochrispim/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://dchrispim.github.io/my-page/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://dchrispim.github.io/my-page/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/My%20github%20page-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 ## My GitHub stats
@@ -15,8 +17,6 @@ If you want to check the deployed version just click in the link on the right me
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DChrispim&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DChrispim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
 
 ## Credits
 - [**Stellar by HTML5 UP | @ajlkn**](https://html5up.net/)
