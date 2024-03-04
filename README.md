@@ -1,6 +1,6 @@
 # Greeting! I am Breno and this is my online portfolio repository!
 
-If you want to check the deployed version just click in the link on the right menu under deployments or just click [here](https://dchrispim.github.io/my-page/).
+If you want to check the deployed version just click in the link on the right menu under deployments or just click [https://dchrispim.github.io/my-page/](https://dchrispim.github.io/my-portfolio/).
 
 This page was constructed by me using as base the template provided by [**Stellar by HTML5 UP | @ajlkn**](https://html5up.net/). Most of my implementations ware in HTML and JavaScript.
 
