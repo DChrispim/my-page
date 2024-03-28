@@ -48,3 +48,6 @@ _testmain.go
 #*.png
 #*.jpeg
 *.psd
+
+# Personal organization
+ToDo.md
