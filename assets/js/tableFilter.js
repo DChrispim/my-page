@@ -6,7 +6,7 @@ let tableElements = document.getElementsByTagName("tr");
 let fixedToggleElements = document.querySelectorAll(".fixedToggle");
 
 // Tags list
-let ActiveTags = ["coding", "frontEnd", "dataScience", "others"];
+let ActiveTags = [];
 
 // Toggle class in ActiveTags list
 function toggleClass(tagName) {
@@ -22,7 +22,7 @@ function toggleClass(tagName) {
 function check() {
   for (let i = 1; i < tableElements.length; i++) {
     if (ActiveTags.length == 0) {
-      tableElements[i].style.display = "none";
+      tableElements[i].style.display = "table-row";
     } else {
       for (let j = 0; j < ActiveTags.length; j++) {
         let classArray = Array.from(tableElements[i].classList);
